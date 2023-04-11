@@ -1,0 +1,15 @@
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\bin\Debug\net7.0\1.Extra.exe
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\bin\Debug\net7.0\1.Extra.deps.json
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\bin\Debug\net7.0\1.Extra.runtimeconfig.json
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\bin\Debug\net7.0\1.Extra.dll
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\bin\Debug\net7.0\1.Extra.pdb
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\obj\Debug\net7.0\1.Extra.csproj.AssemblyReference.cache
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\obj\Debug\net7.0\1.Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\obj\Debug\net7.0\1.Extra.AssemblyInfoInputs.cache
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\obj\Debug\net7.0\1.Extra.AssemblyInfo.cs
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\obj\Debug\net7.0\1.Extra.csproj.CoreCompileInputs.cache
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\obj\Debug\net7.0\1.Extra.dll
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\obj\Debug\net7.0\refint\1.Extra.dll
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\obj\Debug\net7.0\1.Extra.pdb
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\obj\Debug\net7.0\1.Extra.genruntimeconfig.cache
+C:\Users\53144094889\Desktop\Back-end\Exercicios-06_04_23\1.Extra\obj\Debug\net7.0\ref\1.Extra.dll
